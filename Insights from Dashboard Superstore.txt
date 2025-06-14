@@ -1,0 +1,21 @@
+ Insights from Dashboard: Superstore Sales Analysis
+1. Sales by Region (Bar Chart)
+The Central region has the highest total sales, followed by West and East.
+
+The South region contributes the least to overall sales, indicating a potential area for growth.
+
+There's a noticeable performance gap between Central and other regions.
+
+2. Sales Trend Over Time (Line Chart)
+Sales are generally increasing over time, showing positive business growth.
+
+Certain months show a sharp increase, possibly due to promotions or seasonal demand (e.g., November & December spikes).
+
+Some periods show dips—these need to be investigated for possible operational or market issues.
+
+3. Sales by Sub-Category (Pie Chart)
+Phones, Chairs, and Copiers are the top-selling sub-categories, contributing the largest slices of the pie.
+
+Fasteners and Labels have the least sales, suggesting either low demand or limited marketing.
+
+There is a heavy dependence on a few sub-categories; diversification may help balance risk.
